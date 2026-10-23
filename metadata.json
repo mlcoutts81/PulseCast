@@ -1,0 +1,6 @@
+{
+  "name": "PulseCast",
+  "description": "A native Android Material You podcast app inspired by the classic Google Podcasts layout with pure black AMOLED dark mode, iTunes directory search, custom RSS & OPML support, Media3 background & Android Auto playback, and offline downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
